@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "go-code-analyzer": {
+      "command": "/Users/ycchen/Desktop/agent/mcp-server/go-code-mcp",
+      "env": {
+        "WORKSPACE_ROOT": "/Users/ycchen/Desktop/agent"
+      }
+    }
+  }
+}
